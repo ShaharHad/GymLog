@@ -1,8 +1,8 @@
-# GymTracker
-GymTracker is app for track and monitor exercises at the gym
+# GymLog
+GymLog is app for track and monitor exercises at the gym
 
 Key feature:
-1. Exercise Tracking: enables to log all exercises
+1. Exercise Tracking: enables to log almost all exercises 
 2. Progress Monitoring: graphs
 3. Cross-Platform: available for both iOS and Android devices
 
