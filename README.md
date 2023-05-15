@@ -9,7 +9,7 @@ Key feature:
 5. Available for both iOS and Android devices
 
 for backend code:
-  https://gitfront.io/r/shahar/bARMps45AQqX/GymTrackerBackend/
+  [https://gitfront.io/r/shahar/bARMps45AQqX/GymTrackerBackend/](https://gitfront.io/r/shahar/7JkrceFk8nbW/GymLogBackend/)
 
 for frontend code:
   https://github.com/ShaharHad/gym-tracker-mobile.git
